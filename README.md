@@ -11,7 +11,7 @@ Technical implementation of **Tinkoff Adventures** consists of four main parts:
 
 3. Making use of predictions collected by previous two models in parts 1 and 2 and create decision rule, which recommends customer certain activities based on predicted transactions and taking into account possible income. Realisation  - ```./recommend_activity```
 
-4. Using stories content to extract information on customers intetrest on travels to recomend them preferable tours. Implementation of prototype ```.\stories_recommendation```
+4. Using stories content to extract information on customers intetrest on travels to recomend them preferable tours. Implementation of prototype ```./stories_recommendation```
 
 Further improvements:
 - predictions quality;
