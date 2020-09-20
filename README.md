@@ -19,3 +19,4 @@ Further improvements:
 - composition of quests from suggested activities;
 
 HackLab course, Skoltech
+Love Runs The World :)
