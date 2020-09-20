@@ -9,7 +9,7 @@ Technical implementation of **Tinkoff Adventures** consists of four main parts:
 
 2. Predicting income of clients in future using history of transactions as features. Our pipline in Notebook one slightly changes baseline to collect income of clients from provided dataset and to train model predicting single real number using MSE loss for training. Realization can be found in ```.\outcome_prediction```.
 
-3. Making use of predictions collected by previous two models in parts 1 and 2 and create decision rule, which recommends customer certain activities based on predicted transactions and taking into account possible income. Realisation  - ```.\2020_hack_recommend_activity.ipynb```
+3. Making use of predictions collected by previous two models in parts 1 and 2 and create decision rule, which recommends customer certain activities based on predicted transactions and taking into account possible income. Realisation  - ```./recommend_activity```
 
 4. Using stories content to extract information on customers intetrest on travels to recomend them preferable tours. Implementation of prototype ```.\stories_recommendation```
 
